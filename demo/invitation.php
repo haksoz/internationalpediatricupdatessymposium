@@ -16,7 +16,7 @@
         <!-- feautre section -->
         <section class="xs-feautre">
             <!-- banner section -->
-            <div class="xs-section-padding xs-about">
+            <div class="bg-gray xs-section-padding xs-about">
                 <div class="container">
                     <div class="row">
                         <div class="xs-heading col-md-8">

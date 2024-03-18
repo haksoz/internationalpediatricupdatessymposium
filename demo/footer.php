@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 footer-widget footer-description">
                     <a href="#" class="xs-footer-logo">
-                        <img src="/doc/logo-caaad-en-v2.png" alt="" style="background:white">
+                        <img src="doc/logo-01.jpg" alt="" style="background:white">
                     </a>
                     <h3 class="widget-title">The Society of Pediatric Allergy Immunology and Asthma</h3>
                     <li>Address: Şehremini Mah. Millet Cad. No:133/4 - Fatih / İstanbul</li>
@@ -16,9 +16,9 @@
                 </div><!-- .footer-widget END -->
                 <div class="col-lg-6 col-md-6 footer-widget footer-description">
                     <a href="#" class="xs-footer-logo">
-                        <img src="/doc/logo-upcg-88.png" alt="" style="background:white">
+                        <img src="doc/logo-02.jpg" alt="" style="background:white">
                     </a>
-                    <h3 class="widget-title">Macedonia Pediatric Association</h3>
+                    <h3 class="widget-title">Macedonia Pediatric Association <br><br></h3>
                     <li>Dame Gruev 3 1000 Skopje, North Macedonia</li>
                     <li>E-Mail: <a href="mailto:info@mld.mk" style="color: #fff;">info@mld.mk</a> - <a href="pzm@mld.org.mk" style="color: #fff;">pzm@mld.org.mk</a></li>
                 </div><!-- .footer-widget END -->
@@ -26,7 +26,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 footer-widget footer-description">
                     <a href="#" class="xs-footer-logo">
-                        <img src="/doc/solo-event-logo.png" alt="" style="max-width: 80%;">
+                        <img src="doc/solo-event-logo.png" alt="" style="max-width: 100%;">
                     </a>
                     <h3 class="widget-title">Organization Secretariat</h3>
                     <li>Address: Yazarlar Sok. No:16 Esentepe Mah. Şişli, 34394, İstanbul</li>
