@@ -63,6 +63,13 @@
                             </table>
                         </div>
                     </div>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-6 mt-50">
+                            <img src="doc/info-hotel.png" class="mb-10">
+                            <p>Address: Liechtensteinov put 3, 20000, Dubrovnik, Hırvatistan</p>
+                            <p>Telephone: <a href="tel:38520200000">+385 20 200 000</p>
+                        </div>
+                    </div>
                 </div><!-- .container END -->
             </div><!-- End banner section -->
 
