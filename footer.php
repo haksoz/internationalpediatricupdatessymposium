@@ -6,9 +6,9 @@
                     <a href="#" class="xs-footer-logo">
                         <img src="/doc/logo-caaad-en-v2.png" alt="" style="background:white">
                     </a>
-                    <h3 class="widget-title">The Society of Pediatric Allergy Immunology and Asthma</h3>
-                    <li>Address: Şehremini Mah. Millet Cad. No:133/4 - Fatih / İstanbul</li>
-                    <!-- <li>E-Mail: <a href="mailto:cocukalerjiastim@gmail.com" style="color: #fff;">cocukalerjiastim@gmail.com</a></li> -->
+                    <h3 class="widget-title">Society of Pediatric Allergy and Asthma Academy </h3>
+                    <li>Address: Şehremini Mah. Millet Cad. No:133/4 Fatih, İstanbul</li>
+                    <li>E-Mail: <a href="mailto:cocukalerjiastim@gmail.com" style="color: #fff;">cocukalerjiastim@gmail.com</a></li>
                     <li>Tel: <a href="tel:+902125340452" style="color: #fff;">+90 212 534 04 52</a></li>
                     <li>Tel: <a href="tel:+905372688548" style="color: #fff;">+90 537 268 85 48</a></li>
                     <li>Website: <a href="https://caaad.org.tr/" target="_blank" style="color: #fff;">www.caaad.org.tr</a></li>
@@ -18,9 +18,12 @@
                     <a href="#" class="xs-footer-logo">
                         <img src="/doc/logo-upcg-88.png" alt="" style="background:white">
                     </a>
-                    <h3 class="widget-title">Macedonia Pediatric Association</h3>
-                    <li>Dame Gruev 3 1000 Skopje, North Macedonia</li>
-                    <li>E-Mail: <a href="mailto:info@mld.mk" style="color: #fff;">info@mld.mk</a> - <a href="pzm@mld.org.mk" style="color: #fff;">pzm@mld.org.mk</a></li>
+                    <h3 class="widget-title">Institut Za Bolesti Djece <br>Pedijatrijska Klinik JZU Kliničk</h3>
+                    <li>Centar Crne Gore Ljubljanska Bb, 81000 Podgorica, Crna Gora</li>
+                    <li>Mob: <a href="tel:+38269338408" style="color: #fff;">+382 69 338 408</a></li>
+                    <li>Fax: +382 20 225 284</li>
+                    <li>Website: <a href="https://www.pedijatar.me/" target="_blank" style="color: #fff;">www.pedijatar.me</a></li>
+
                 </div><!-- .footer-widget END -->
             </div><!-- .row END -->
             <div class="row justify-content-center">
@@ -30,7 +33,7 @@
                     </a>
                     <h3 class="widget-title">Organization Secretariat</h3>
                     <li>Address: Yazarlar Sok. No:16 Esentepe Mah. Şişli, 34394, İstanbul</li>
-                    <li>E-Mail: <a href="mailto:info@soloevent.net" style="color: #fff;">info@soloevent.net</a></li>
+                    <li>E-Mail: <a href="mailto:upg@soloevent.net" style="color: #fff;">upg@soloevent.net</a></li>
                     <li>Tel: <a href="tel:+902122790020" style="color: #fff;">(0212) 279 00 20</a></li>
                     <li>Faks: (0212) 279 00 35</li>
                 </div><!-- .footer-widget END -->
@@ -43,7 +46,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright © <a href="https://ko.com.tr/" target="_blank">Kapital Online</a> - 2024</p>
+                    <p>Copyright © <a href="https://ko.com.tr/" target="_blank">Kapital Online</a> - 2023</p>
                 </div>
                 <div class="xs-back-to-top-wraper">
                     <a href="#" class="xs-back-to-top">
