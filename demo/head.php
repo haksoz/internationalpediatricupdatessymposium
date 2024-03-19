@@ -17,6 +17,6 @@
 <link href="assets\css\owl.carousel.min.css" rel="stylesheet">
 <link href="assets\css\owl.theme.default.min.css" rel="stylesheet">
 <link href="assets\css\animate.css" rel="stylesheet"><!--For Plugins external css-->
-<link href="assets\css\plugins.css?v=33" rel="stylesheet"><!--Theme custom css -->
-<link href="assets\css\style.css?v=34" rel="stylesheet"><!--Theme Responsive css-->
-<link href="assets\css\responsive.css?v=33" rel="stylesheet">
+<link href="assets\css\plugins.css?v=36" rel="stylesheet"><!--Theme custom css -->
+<link href="assets\css\style.css?v=36" rel="stylesheet"><!--Theme Responsive css-->
+<link href="assets\css\responsive.css?v=36" rel="stylesheet">
