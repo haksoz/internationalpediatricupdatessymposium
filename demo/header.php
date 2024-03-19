@@ -3,13 +3,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 xs-logo-wraper">
-                    <a class="nav-brand" href="index.php"><img alt="" src="doc/logo-01.jpg"></a>
+                    <a class="nav-brand" href="index.php"><img alt="" src="doc/logo-01v2.jpg"></a>
                 </div><!-- .xs-logo-wraper END -->
                 <div class="col-md-4 xs-logo-wraper" style="text-align: center; ">
                     <h3 class="">2<sup>nd</sup> International Pediatric<br>Updates Symposium</h3>
                 </div>
                 <div class="col-md-4 xs-logo-wraper" style="text-align: end;">
-                    <a class="nav-brand" href="index.php"><img alt="" src="doc/logo-02.jpg"></a>
+                    <a class="nav-brand" href="index.php"><img alt="" src="doc/logo-02v2.jpg"></a>
                 </div>
                 <!--
                 <div class="col-md-1">
@@ -25,9 +25,9 @@
         <div class="container">
             <nav class="xs-menus">
                 <div class="nav-header">
-                    <div class="nav-toggle"></div><a class="nav-logo" href="index.html">
-                        <img alt="" src="doc/logo-01.jpg">
-                        <img alt="" src="doc/logo-02.jpg"></a>
+                    <div class="nav-toggle"></div><a class="nav-logo" href="index.php">
+                        <img alt="" src="doc/logo-01v2.jpg">
+                        <img alt="" src="doc/logo-02v2.jpg"></a>
                 </div><!-- .nav-header END -->
                 <div class="nav-menus-wrapper">
                     <ul class="nav-menu">
