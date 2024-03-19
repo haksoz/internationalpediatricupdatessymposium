@@ -24,21 +24,21 @@
                         </div><!-- .xs-heading END -->
                     </div><!-- .row END -->
                     <div class="xs-featureDetails-content col-md-12 text-center">
-                        <h4>Presidents of Meeting</h4>
+                        <h4>Presidents of Symposium</h4>
                         <P>Prof. Dr. Koray Harmancı</P>
-                        <p>Prof. Dr. Aspazija Sofijanova</p>
+                        <p>Prof. Dr. Lidija Pocek</p>
 
-                        <h4>Organizing Committee</h4>
-                        <p>Mustafa Arga </p>
-                        <p>Sonja Bojadzieva </p>
-                        <p>Arzu Bakırtaş </p>
-                        <p>Kirovski Ilija </p>
-                        <p>Ateş Kara </p>
-                        <p>Micevska Vesna </p>
-                        <p>Zeynep Tamay </p>
-                        <p>Micevska Vesna </p>
-                        <p>Esra Özek Yücel </p>
-                        <p>Avdi Murtezani</p>
+                        <h4>Symposium Organizing Comitee</h4>
+                        <p>Prof. Dr. Mustafa Arga</p>
+                        <p>Prof. Dr. Maja Kavaric</p>
+                        <p>Prof. Dr. Arzu Bakırtaş</p>
+                        <p>Assoc. Prof. Dr. Nurşen Ciğerci</p>
+                        <p>Assoc. Prof. Dr. Handan Duman</p>
+                        <p>Prof. Dr. Ateş Kara</p>
+                        <p>Prof. Dr. Pınar Uysal</p>
+                        <p>Prof. Dr. Zeynep Tamay</p>
+                        <p>Assoc. Prof. Dr. Ebru Arık Yılmaz</p>
+                        <p>Assoc. Prof. Dr. Esra Özek Yücel</p>
                     </div>
                 </div><!-- .container END -->
             </div><!-- End banner section -->

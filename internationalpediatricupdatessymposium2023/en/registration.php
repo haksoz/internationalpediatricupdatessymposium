@@ -40,24 +40,24 @@
                                 <tbody>
                                     <tr>
                                         <td><b>Specialist Physician</b></td>
-                                        <td>450 €</td>
+                                        <td>200 €</td>
                                     </tr>
                                     <tr>
                                         <td><b>Assistant</b></td>
-                                        <td>250 €</td>
+                                        <td>150 €</td>
                                     </tr>
                                     <tr>
                                         <td><b>Company Representative</b></td>
-                                        <td>300 €</td>
+                                        <td>200 €</td>
                                     </tr>
                                 </tbody>
                             </table>
                             <ul class="">
-                                <br><li>It will be finalized after the fees for registration, accommodation and course requests are deposited to the relevant accounts and the receipts and registration-accommodation request are sent via e-mail to <a href="info@soloevent.net">info@soloevent.net</a></li> <br>
-                                <li>If you request payment by credit card, the mail order form will be sent to you by e-mail by the meeting secretariat.</li>
+                                <li>• It will be finalized after the fees for registration, accommodation and course requests are deposited to the relevant accounts and the receipts and registration-accommodation request are sent via e-mail to <a href="info@soloevent.net">info@soloevent.net</a></li> 
+                                <li>• If you request payment by credit card, the mail order form will be sent to you by e-mail by the meeting secretariat.</li>
                             </ul>
                             <br><br>
-                            <p><b>Services Included in the Meeting Registration Fee:</b></p>
+                            <p>Services Included in the Meeting Registration Fee:</p>
                             <ul class="">
                                 <li>• Participation in the scientific program.</li>
                                 <li>• Meeting materials (name badge, pocket program, program booklet, certificate of attendance).</li>
@@ -83,16 +83,16 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td><b>Rixos Premium Hotel</b></td>
-                                        <td>1200 €</td>
+                                        <td><b>Budva Hotel</b></td>
+                                        <td>400 €</td>
                                         <td>100 €</td>
                                     </tr>
                                 </tbody>
                             </table>
                             <ul class="">
-                                <li>• 3 nights, breakfast.</li>
-                                <li>• Lunch and coffee breaks to be taken between 11-14 June are included in the accommodation fee.</li>
-                                <li>• VAT will be added the prices.</li>
+                                <li>• Check-in is at 14:00 on 31 May 2023 and departure is at 12:00 on 2 June 2023.</li>
+                                <li>• Accommodation at the hotel is 2 nights, and the package price will be applied for less overnight stays. The package price cannot be split.</li>
+                                <li>• Lunch and coffee breaks to be taken between 31 May - 2 June are included in the accommodation fee.</li>
                             </ul>
                         </div>
                     </div>
@@ -104,10 +104,10 @@
                             </div>
                         </div>
                         <div class="col-lg-12">
-                            <li>• Airport Transfer Fee: 250 €</li>
-                            <li>• This transfer fee will be made collectively as arrival June 11, 2024 and return on June 14, 2024.</li>
-                            <li>• Valid for airport - hotel - Airport transfers.</li>
-                            <li>• If you have a private transfer or transfer request outside of these dates, you should contact SOLO EVENT.</li> 
+                            <p>Airport Transfer Fee: 100 €</p>
+                            <p>This transfer fee will be made collectively as arrival on May 31, 2023 and return on June 2, 2023.</p>
+                            <p>Valid for airport - hotel - Airport transfers.</p>
+                            <p>If you have a private transfer or transfer request outside of these dates, you should contact SOLO EVENT.</p> 
                         </div>
                     </div>
                     <div class="row" style="padding-top: 40px;">
@@ -119,11 +119,9 @@
                         </div>
                         <div class="col-lg-12">
                             <ul class="">
-                                <li>• For cancellations made until January 11, 2024, the full payment will be refunded.</li>
-                                <li>• 15% of the total number of rooms reserved may be cancelled without compensation if it is made up to 90 days prior to the arrival.</li>
-                                <li>• 5% of the total number of rooms reserved may be cancelled without compensation if it is between 89 and 30 days prior to the arrival.</li>
-                                <li>• 5% of the total number of rooms reserved may be cancelled without compensation between 29 and 14 days prior to the arrival.</li>
-                                <li>• Hotel management cannot accept any cancellation made in the period shorter than 14 days prior to the arrival.</li>
+                                <li>• For cancellations made until April 12, 2023, the full payment will be refunded.</li>
+                                <li>• For cancellations made between 13 April - 26 April 2023, 50% of the received payment will be refunded.</li>
+                                <li>• Cancellations made after April 27, 2023 will not be refunded.</li>
                                 <li>• All requests must be submitted to the organization firm in writing.</li>
                                 <li>• All refunds will be made after the meeting.</li>
                                 <li>• In case our meeting is postponed to 2024 or another year due to Covid-19 or another global pandemic, or is held virtually, the total amount paid by the company will be deducted from the total amount of sponsorship to be made over the current prices determined for the meeting to be held. In case the company cancels its participation, the cancellation conditions of that day will be applied.</li>

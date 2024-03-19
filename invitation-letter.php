@@ -1,14 +1,16 @@
 <div class="col-lg-12">
     <div class="xs-service-content">
         <p>To Whom It May Concern,</p>
-        <p>Society of Pediatric Allergy and Asthma Academy and Pediatric Association of Montenegro will conduct a joint scientific meeting between 31 May- 02 Jun 2023 at Hotel Budva, Montenegro. We agree that all the necessary COVID-19 precautions will be taken and that we expect around 100 healthcare professionals in total to attend the meeting: 40 internationally and Montenegro, 60 from Turkey.</p>
+        <p><b>2nd International Pediatric Updates Symposium</b> jointly organized by the <b>Society of Pediatric Allergy and Asthma Academy</b> and the <b>Macedonian Pediatrics Association</b>, will take place from June 11 to 14, 2024, at Rixos Premium Hotel in Croatia, Dubrovnik.</p>
+        <p>A total of 180 healthcare professionals, 60 from Turkey, 60 from Macedonia,30 from Croatia, 20 from Serbia, 10 from Montenegro, are expected to attend our meeting.</p>
+        <p>We are planning to organize a productive conference that brings together colleagues from both countries for scientific exchange, sharing of professional experiences and transferring expertise in the field of pediatric development in both countries.</p>
         <p>Sincerely,</p>
-        <p>Prof. Dr. Haluk Çokuğraş<br>
-            President of Society of Pediatric Allergy And Asthma Academy 
+        <p><b>Prof. Dr. Koray Harmancı<br>
+            President of Society of Pediatric Allergy And Asthma Academy </b>
         </p>
         <p>
-            Dr. Lidija Pocek<br>
-            President of Pediatric Association of Montenegro
+            <b>Prof. Dr. Aspazija Sofijanova<br>
+            President of Macedonia Pedaitric Association</b>
         </p>
     </div><!-- .xs-service-content END -->
 </div>

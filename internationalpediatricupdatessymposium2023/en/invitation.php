@@ -3,9 +3,10 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>International Pediatric Updates Symposium - Scientific Program</title>
+    <title>International Pediatric Updates Symposium - Invitation</title>
     <?php include('head.php') ?>
 </head>
+
 <body>
     <!-- header section -->
     <?php include('header.php') ?>
@@ -15,22 +16,19 @@
         <!-- feautre section -->
         <section class="xs-feautre">
             <!-- banner section -->
-            <div class="bg-gray xs-section-padding xs-about">
+            <div class="xs-section-padding xs-about">
                 <div class="container">
                     <div class="row">
                         <div class="xs-heading col-md-8">
-                            <h3 class="xs-title">Scientific Program</h3>
-                            <a class="btn btn-success" style="margin-top:30px;" href="doc/pediatriakademi2programing.pdf" target="_blank">ENG | Download the Program as PDF</a>
-                            <a class="btn btn-success" style="margin-top:10px;" href="doc/pediatriakademi2programtr.pdf" target="_blank">TR | Programı PDF Olarak İndirin</a>
+                            <h3 class="xs-title">Invitation</h3>
+
                         </div><!-- .xs-heading END -->
                     </div><!-- .row END -->
                     <div class="row">
-                        <div class="xs-heading col-lg-12">
-                            <img style="max-width: 80%;" alt="" src="doc/pediatriakademi2programing-2.jpg">
-                        </div>
+                        <?php include('invitation-letter.php') ?>
                     </div><!-- .row END -->
                 </div><!-- .container END -->
-            </div><!-- End banner section -->
+            </div> <!-- End banner section -->
 
         </section><!-- End feautre section -->
     </main>

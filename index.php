@@ -1,9 +1,9 @@
 <!-- get_header('Page Name','Title')-->
 <!DOCTYPE html>
-<html class="no-js" lang="en">
+<html class="no-js" lang="EN">
 
 <head>
-    <title>International Pediatric Updates Symposium - Home Page</title>
+    <title>2nd International Pediatric Updates Symposium - Home Page</title>
     <?php include('head.php') ?>
 </head>
 
@@ -16,7 +16,7 @@
     <section class="xs-banner xs-bg" style="background-color: #243263;">
         <div class="container">
             <div class="row xs-banner-wraper">
-                <div class=""><img alt="" src="/doc/31-mayis-2-haziran-2023-uluslararasi-pediatrik-guncellemeler-sempozyumu-en-1680437357stedd.jpeg"></div>
+                <div class=""><img alt="" src="doc/slider-1400.jpg"></div>
 
             </div><!-- .row END -->
         </div><!-- .container END -->
