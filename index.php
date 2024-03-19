@@ -16,7 +16,7 @@
     <section class="xs-banner xs-bg" style="background-color: #243263;">
         <div class="container">
             <div class="row xs-banner-wraper">
-                <div class=""><img alt="" src="doc/slider-1400.jpg"></div>
+                <div class=""><img alt="" src="doc/slider-1400v2.jpg"></div>
 
             </div><!-- .row END -->
         </div><!-- .container END -->
