@@ -32,7 +32,7 @@
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6 footer-widget footer-description">
                                         <a href="#" class="xs-footer-logo">
-                                            <img src="doc/logo-01.jpg" alt="" style="max-width: 80%;">
+                                            <img src="doc/logo-01v2.jpg" alt="" style="max-width: 80%;">
                                         </a>
                                         <h3 class="widget-title">The Society of Pediatric Allergy Immunology and Asthma</h3>
                                         <li>Address: Şehremini Mah. Millet Cad. No:133/4 - Fatih / İstanbul</li>
@@ -43,10 +43,10 @@
                                     </div>
                                     <div class="col-lg-6 col-md-6 footer-widget footer-description">
                                         <a href="#" class="xs-footer-logo">
-                                            <img src="doc/logo-02.jpg" alt="" style="max-width: 80%;">
+                                            <img src="doc/logo-02v2.jpg" alt="" style="max-width: 80%;">
                                         </a>
                                         <h3 class="widget-title">Macedonia Pediatric Association</h3>
-                                        <li>Dame Gruev 3 1000 Skopje, North Macedonia</li>
+                                        <li>Address: Dame Gruev 3 1000 Skopje, North Macedonia</li>
                                         <li>E-Mail: <a href="mailto:info@mld.mk" style="color: #243262;">info@mld.mk</a> - <a href="pzm@mld.org.mk" style="color: #243262;">pzm@mld.org.mk</a></li>
                                     </div>
                                 </div>

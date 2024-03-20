@@ -29,7 +29,7 @@
                                 <tbody>
                                     <tr>
                                         <td><b>Date</b></td>
-                                        <td>11-14 June 2024</td>
+                                        <td>12-13 June 2024</td>
                                     </tr>
                                     <tr>
                                         <td><b>Place</b></td>

@@ -4706,6 +4706,15 @@ h4 {
 }
 
 .xs-menus {
-
     border: 1px solid #dfdede;
+}
+
+.xs_nav-portrait .nav-logo>img {
+  height: 50px;
+  margin: 6px auto 6px 5px;
+  padding: 0;
+}
+
+.xs_nav-portrait {
+  height: 65px;
 }

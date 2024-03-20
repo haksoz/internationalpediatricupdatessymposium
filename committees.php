@@ -36,7 +36,6 @@
                         <p>Ateş Kara </p>
                         <p>Micevska Vesna </p>
                         <p>Zeynep Tamay </p>
-                        <p>Micevska Vesna </p>
                         <p>Esra Özek Yücel </p>
                         <p>Avdi Murtezani</p>
                     </div>
