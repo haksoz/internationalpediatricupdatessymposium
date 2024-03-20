@@ -1,8 +1,10 @@
 <meta charset="utf-8">
 <meta content="ie=edge" http-equiv="x-ua-compatible">
-
-<meta name="description" content="Çocuk Alerji ve Astım Akademisi Derneği’nin, Karadağ Pediatri Derneği ile ortaklaşa düzemleyeceği ÇAAAD Uluslararası Pediatrik Güncellemeler Sempozyumu , 31 Mayıs – 2 Haziran 2023 tarihleri arasında Budva Otel, Karadağ’da düzenlenecektir.">
-<meta name="keywords" content="caaad, Karadağ Pediatri Derneği, Uluslararası Pediatrik Güncellemeler Sempozyumu, Budva Otel, Karadağ">
+<meta name="robots" content="index,follow">
+<meta name="author" content="Kapital Online">
+<meta name="publisher" content="Kapital Online">
+<meta name="description" content="2nd International Pediatric Updates Symposium jointly organized by The Society of Pediatric Allergy Immunology and Asthma and the Macedonia Pediatrics Association, will take place from June 11 to 14, 2024, at Rixos Premium Hotel in Croatia, Dubrovnik.">
+<meta name="keywords" content="International Pediatric Updates Symposium, caaad, Makedonya Pediatri Derneği, Uluslararası Pediatrik Güncellemeler Sempozyumu, Hırvatistan, The Society of Pediatric Allergy Immunology and Asthma, Macedonia Pediatrics Association, Rixos Premium Hotel, Croatia">
 
 <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
 <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700%7CQuicksand:300,400,500,700" rel="stylesheet">

@@ -3,7 +3,7 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>International Pediatric Updates Symposium - Contact</title>
+    <title>Contact - International Pediatric Updates Symposium</title>
     <?php include('head.php') ?>
 </head>
 
@@ -32,7 +32,7 @@
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6 footer-widget footer-description">
                                         <a href="#" class="xs-footer-logo">
-                                            <img src="doc/logo-01v2.jpg" alt="" style="max-width: 80%;">
+                                            <img src="doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma" style="max-width: 80%;">
                                         </a>
                                         <h3 class="widget-title">The Society of Pediatric Allergy Immunology and Asthma</h3>
                                         <li>Address: Şehremini Mah. Millet Cad. No:133/4 - Fatih / İstanbul</li>
@@ -43,7 +43,7 @@
                                     </div>
                                     <div class="col-lg-6 col-md-6 footer-widget footer-description">
                                         <a href="#" class="xs-footer-logo">
-                                            <img src="doc/logo-02v2.jpg" alt="" style="max-width: 80%;">
+                                            <img src="doc/logo2v3.png" alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association" style="max-width: 80%;">
                                         </a>
                                         <h3 class="widget-title">Macedonia Pediatric Association</h3>
                                         <li>Address: Dame Gruev 3 1000 Skopje, North Macedonia</li>
@@ -53,7 +53,7 @@
                                 <div class="row justify-content-center">
                                     <div class="col-lg-6 col-md-6 footer-widget footer-description">
                                         <a href="#" class="xs-footer-logo">
-                                            <img src="doc/solo-event-logo.png" alt="" style="max-width: 80%;">
+                                            <img src="doc/solo-event-logo.png" alt="Solo Event Logo" title="Solo Event" style="max-width: 80%;">
                                         </a>
                                         <h3 class="widget-title">Organization Secretariat</h3>
                                         <li>Address: Yazarlar Sok. No:16 Esentepe Mah. Şişli, 34394, İstanbul</li>

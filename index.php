@@ -1,9 +1,9 @@
 <!-- get_header('Page Name','Title')-->
 <!DOCTYPE html>
-<html class="no-js" lang="EN">
+<html class="no-js" lang="en">
 
 <head>
-    <title>2nd International Pediatric Updates Symposium - Home Page</title>
+    <title>Home Page - 2nd International Pediatric Updates Symposium</title>
     <?php include('head.php') ?>
 </head>
 
@@ -16,7 +16,7 @@
     <section class="xs-banner xs-bg" style="background-color: #243263;">
         <div class="container">
             <div class="row xs-banner-wraper">
-                <div class=""><img alt="" src="doc/slider-1400v2.jpg"></div>
+                <div class=""><img alt="International Pediatric Updates Symposium" title="International Pediatric Updates Symposium" src="doc/slider-1400v3.jpg"></div>
 
             </div><!-- .row END -->
         </div><!-- .container END -->

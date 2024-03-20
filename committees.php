@@ -3,7 +3,7 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>International Pediatric Updates Symposium - Committees</title>
+    <title>Committees - International Pediatric Updates Symposium</title>
     <?php include('head.php') ?>
 </head>
 

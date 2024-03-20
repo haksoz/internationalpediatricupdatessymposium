@@ -3,13 +3,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 xs-logo-wraper">
-                    <a class="nav-brand" href="index.php"><img alt="" src="doc/logo-01v2.jpg"></a>
+                    <a class="nav-brand" href="index.php"><img src="doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma"></a>
                 </div><!-- .xs-logo-wraper END -->
                 <div class="col-md-4 xs-logo-wraper" style="text-align: center; ">
-                    <h3 class="">2<sup>nd</sup> International Pediatric<br>Updates Symposium</h3>
+                    <h3 class="">2<sup>nd</sup> International Pediatric<br> Updates Symposium</h3>
                 </div>
                 <div class="col-md-4 xs-logo-wraper" style="text-align: end;">
-                    <a class="nav-brand" href="index.php"><img alt="" src="doc/logo-02v2.jpg"></a>
+                    <a class="nav-brand" href="index.php"><img src="doc/logo2v3.png" alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association"></a>
                 </div>
                 <!--
                 <div class="col-md-1">
@@ -26,8 +26,8 @@
             <nav class="xs-menus">
                 <div class="nav-header">
                     <div class="nav-toggle"></div><a class="nav-logo" href="index.php">
-                        <img alt="" src="doc/logo-01v2.jpg">
-                        <img alt="" src="doc/logo-02v2.jpg"></a>
+                        <img alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma" src="doc/logo-caaad.png">
+                        <img alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association" src="doc/logo2v3.png"></a>
                 </div><!-- .nav-header END -->
                 <div class="nav-menus-wrapper">
                     <ul class="nav-menu">

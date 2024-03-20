@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 footer-widget footer-description">
                     <a href="#" class="xs-footer-logo">
-                        <img src="doc/logo-01v2.jpg" alt="" style="background:white">
+                        <img src="doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma" style="background:white">
                     </a>
                     <h3 class="widget-title">The Society of Pediatric Allergy Immunology and Asthma</h3>
                     <li>Address: Şehremini Mah. Millet Cad. No:133/4 - Fatih / İstanbul</li>
@@ -16,7 +16,7 @@
                 </div><!-- .footer-widget END -->
                 <div class="col-lg-6 col-md-6 footer-widget footer-description">
                     <a href="#" class="xs-footer-logo">
-                        <img src="doc/logo-02v2.jpg" alt="" style="background:white">
+                        <img src="doc/logo2v3.png" alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association" style="background:white">
                     </a>
                     <h3 class="widget-title">Macedonia Pediatric Association <br><br></h3>
                     <li>Dame Gruev 3 1000 Skopje, North Macedonia</li>
@@ -26,7 +26,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 footer-widget footer-description">
                     <a href="#" class="xs-footer-logo">
-                        <img src="doc/solo-event-logo.png" alt="" style="max-width: 100%;">
+                        <img src="doc/solo-event-logo.png" alt="Solo Event Logo" title="Solo Event" style="max-width: 100%;">
                     </a>
                     <h3 class="widget-title">Organization Secretariat</h3>
                     <li>Address: Yazarlar Sok. No:16 Esentepe Mah. Şişli, 34394, İstanbul</li>

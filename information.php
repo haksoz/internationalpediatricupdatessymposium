@@ -3,7 +3,7 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>International Pediatric Updates Symposium - General Information</title>
+    <title>General Information - International Pediatric Updates Symposium</title>
     <?php include('head.php') ?>
 </head>
 
@@ -65,7 +65,7 @@
                     </div>
                     <div class="row justify-content-center">
                         <div class="col-lg-6 mt-50">
-                            <img src="doc/info-hotel.png" class="mb-10">
+                            <img src="doc/info-hotel.png" alt="Rixos Premium Hotel" title="Rixos Premium Hotel" class="mb-10">
                             <p>Address: Liechtensteinov put 3, 20000, Dubrovnik, Hırvatistan</p>
                             <p>Telephone: <a href="tel:38520200000">+385 20 200 000</p>
                         </div>
