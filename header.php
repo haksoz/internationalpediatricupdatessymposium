@@ -9,7 +9,7 @@
                     <h3 class="">2<sup>nd</sup> International Pediatric<br> Updates Symposium</h3>
                 </div>
                 <div class="col-md-4 xs-logo-wraper" style="text-align: end;">
-                    <a class="nav-brand" href="index.php"><img src="doc/logo2v3.png" alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association"></a>
+                    <a class="nav-brand" href="index.php"><img src="doc/logo2v4.png" alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association"></a>
                 </div>
                 <!--
                 <div class="col-md-1">
@@ -26,8 +26,8 @@
             <nav class="xs-menus">
                 <div class="nav-header">
                     <div class="nav-toggle"></div><a class="nav-logo" href="index.php">
-                        <img alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma" src="doc/logo-caaad.png">
-                        <img alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association" src="doc/logo2v3.png"></a>
+                        <img src="doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma">
+                        <img src="doc/logo2v4.png" alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association"></a>
                 </div><!-- .nav-header END -->
                 <div class="nav-menus-wrapper">
                     <ul class="nav-menu">

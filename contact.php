@@ -43,7 +43,7 @@
                                     </div>
                                     <div class="col-lg-6 col-md-6 footer-widget footer-description">
                                         <a href="#" class="xs-footer-logo">
-                                            <img src="doc/logo2v3.png" alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association" style="max-width: 80%;">
+                                            <img src="doc/logo2v4.png" alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association" style="max-width: 80%;">
                                         </a>
                                         <h3 class="widget-title">Macedonia Pediatric Association</h3>
                                         <li>Address: Dame Gruev 3 1000 Skopje, North Macedonia</li>
