@@ -3,7 +3,7 @@
 <meta name="robots" content="index,follow">
 <meta name="author" content="Kapital Online">
 <meta name="publisher" content="Kapital Online">
-<meta name="description" content="2nd International Pediatric Updates Symposium jointly organized by The Society of Pediatric Allergy Immunology and Asthma and the Macedonia Pediatrics Association, will take place from June 11 to 14, 2024, at Rixos Premium Hotel in Croatia, Dubrovnik.">
+<meta name="description" content="2nd International Pediatric Updates Symposium jointly organized by The Society of Pediatric Allergy Immunology and Asthma and the Macedonia Pediatrics Association, will take place from 12-13 June, 2024, at Rixos Premium Hotel in Croatia, Dubrovnik.">
 <meta name="keywords" content="International Pediatric Updates Symposium, caaad, Makedonya Pediatri Derneği, Uluslararası Pediatrik Güncellemeler Sempozyumu, Hırvatistan, The Society of Pediatric Allergy Immunology and Asthma, Macedonia Pediatrics Association, Rixos Premium Hotel, Croatia">
 
 <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
