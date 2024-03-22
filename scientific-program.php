@@ -25,12 +25,12 @@
                     </div><!-- .row END -->
                     <div class="row">
                         <div class="col-md-12 program-button">
-                        <a class="btn btn-success" href="doc/pediatriakademi2programing.pdf?v=001" title="eng scientific program" target="_blank">ENG | Download the Program</a>
+                        <a class="btn btn-success" href="doc/pediatriakademi2programing.pdf?v=002" title="eng scientific program" target="_blank">ENG | Download the Program</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12 program-button mb-20">
-                            <a class="btn btn-success" href="doc/pediatriakademi2programtr.pdf?v=001" title="tr scientific program" target="_blank">TR | Programı İndirin</a>
+                            <a class="btn btn-success" href="doc/pediatriakademi2programtr.pdf?v=002" title="tr scientific program" target="_blank">TR | Programı İndirin</a>
                         </div>
                     </div>
                     <div class="row">
