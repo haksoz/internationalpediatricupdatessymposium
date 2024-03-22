@@ -35,7 +35,7 @@
                     </div>
                     <div class="row">
                         <div class="xs-heading col-lg-12">
-                            <img style="max-width: 80%;" alt="Scientific Program" title="Scientific Program" src="doc/pediatriakademi2programing-2.jpg">
+                            <img style="max-width: 80%;" alt="Scientific Program" title="Scientific Program" src="doc/pediatriakademi2programing-2.jpg?v=001">
                         </div>
                     </div><!-- .row END -->
                 </div><!-- .container END -->
