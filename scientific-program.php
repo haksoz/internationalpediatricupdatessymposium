@@ -6,6 +6,7 @@
     <title>Scientific Program - International Pediatric Updates Symposium</title>
     <?php include('head.php') ?>
 </head>
+
 <body>
     <!-- header section -->
     <?php include('header.php') ?>
@@ -18,12 +19,20 @@
             <div class="bg-gray xs-section-padding xs-about">
                 <div class="container">
                     <div class="row">
-                        <div class="xs-heading col-md-8">
+                        <div class="xs-heading col-md-8 mb-0">
                             <h3 class="xs-title">Scientific Program</h3>
-                            <a class="btn btn-success" style="margin-top:30px;" href="doc/pediatriakademi2programing.pdf?v=001" title="eng scientific program" target="_blank">ENG | Download the Program as PDF</a>
-                            <a class="btn btn-success" style="margin-top:10px;" href="doc/pediatriakademi2programtr.pdf?v=001" title="tr scientific program" target="_blank">TR | Programı PDF Olarak İndirin</a>
                         </div><!-- .xs-heading END -->
                     </div><!-- .row END -->
+                    <div class="row">
+                        <div class="col-md-12 program-button">
+                        <a class="btn btn-success" href="doc/pediatriakademi2programing.pdf?v=001" title="eng scientific program" target="_blank">ENG | Download the Program</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 program-button mb-20">
+                            <a class="btn btn-success" href="doc/pediatriakademi2programtr.pdf?v=001" title="tr scientific program" target="_blank">TR | Programı İndirin</a>
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="xs-heading col-lg-12">
                             <img style="max-width: 80%;" alt="Scientific Program" title="Scientific Program" src="doc/pediatriakademi2programing-2.jpg">
