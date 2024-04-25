@@ -35,7 +35,7 @@
                         <p>Kirovski Ilija </p>
                         <p>Ateş Kara </p>
                         <p>Micevska Vesna </p>
-                        <p>Zeynep Tamay </p>
+                        <p>Zeynep Ülker Altınel </p>
                         <p>Esra Özek Yücel </p>
                         <p>Avdi Murtezani</p>
                     </div>
