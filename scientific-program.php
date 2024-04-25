@@ -25,17 +25,17 @@
                     </div><!-- .row END -->
                     <div class="row">
                         <div class="col-md-12 program-button">
-                        <a class="btn btn-success" href="doc/pediatriakademi2programing.pdf?v=002" title="eng scientific program" target="_blank">ENG | Download the Program</a>
+                        <a class="btn btn-success" href="doc/pediatriakademi2programing.pdf?v=003" title="eng scientific program" target="_blank">ENG | Download the Program</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12 program-button mb-20">
-                            <a class="btn btn-success" href="doc/pediatriakademi2programtr.pdf?v=002" title="tr scientific program" target="_blank">TR | Programı İndirin</a>
+                            <a class="btn btn-success" href="doc/pediatriakademi2programtr.pdf?v=003" title="tr scientific program" target="_blank">TR | Programı İndirin</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="xs-heading col-lg-12">
-                            <img style="max-width: 80%;" src="doc/pediatriakademi2programing-2.jpg?v=001" alt="Scientific Program" title="Scientific Program">
+                            <img style="max-width: 80%;" src="doc/pediatriakademi2programing-01.jpg" alt="Scientific Program" title="Scientific Program">
                         </div>
                     </div><!-- .row END -->
                 </div><!-- .container END -->
