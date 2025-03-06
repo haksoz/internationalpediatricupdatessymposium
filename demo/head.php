@@ -20,5 +20,5 @@
 <link href="/demo/assets/css/owl.theme.default.min.css" rel="stylesheet">
 <link href="/demo/assets/css/animate.css" rel="stylesheet"><!--For Plugins external css-->
 <link href="/demo/assets/css/plugins.css" rel="stylesheet"><!--Theme custom css -->
-<link href="/demo/assets/css/style.css" rel="stylesheet"><!--Theme Responsive css-->
+<link href="/demo/assets/css/style.css?v=4" rel="stylesheet"><!--Theme Responsive css-->
 <link href="/demo/assets/css/responsive.css" rel="stylesheet">
