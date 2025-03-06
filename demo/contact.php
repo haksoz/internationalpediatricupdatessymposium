@@ -31,7 +31,7 @@
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6 footer-widget footer-description">
                                         <a href="#" class="xs-footer-logo">
-                                            <img src="doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma" style="max-width: 80%;">
+                                            <img src="/demo/doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma" style="max-width: 80%;">
                                         </a>
                                         <h3 class="widget-title">The Society of Pediatric Allergy Immunology and Asthma</h3>
                                         <li>Address: Şehremini Mah. Millet Cad. No:133/4 - Fatih / İstanbul</li>
@@ -42,7 +42,7 @@
                                     </div>
                                     <div class="col-lg-6 col-md-6 footer-widget footer-description">
                                         <a href="#" class="xs-footer-logo">
-                                            <img src="doc/magyar.png" alt="Magyar Gyermekorvosok Társasága" title="Magyar Gyermekorvosok Társasága" style="max-height: 80px;">
+                                            <img src="/demo/doc/magyar.png" alt="Magyar Gyermekorvosok Társasága" title="Magyar Gyermekorvosok Társasága" style="max-height: 80px;">
                                         </a>
                                         <h3 class="widget-title">Magyar Gyermekorvosok Társasága</h3>
                                         <li>Heim Pál Országos Gyermekgyógyászati Intézet 1089 Budapest, Üllői út 86</li>
@@ -52,7 +52,7 @@
                                 <div class="row justify-content-center">
                                     <div class="col-lg-6 col-md-6 footer-widget footer-description">
                                         <a href="#" class="xs-footer-logo">
-                                            <img src="doc/solo-event-logo.png" alt="Solo Event Logo" title="Solo Event" style="max-width: 80%;">
+                                            <img src="/demo/doc/solo-event-logo.png" alt="Solo Event Logo" title="Solo Event" style="max-width: 80%;">
                                         </a>
                                         <h3 class="widget-title">Organization Secretariat</h3>
                                         <li>Address: Yazarlar Sok. No:16 Esentepe Mah. Şişli, 34394, İstanbul</li>

@@ -15,7 +15,8 @@
     <section class="xs-banner xs-bg" style="background-color: #243263;">
         <div class="container">
             <div class="row xs-banner-wraper">
-                <div class=""><img alt="International Pediatric Updates Symposium" title="International Pediatric Updates Symposium" src="doc/slider-1400v3.jpg"></div>
+                <div class="hidden-block"><img alt="International Pediatric Updates Symposium" title="International Pediatric Updates Symposium" src="/demo/doc/desktop-banner.jpg"></div>
+                <div class="block-hidden"><img alt="International Pediatric Updates Symposium" title="International Pediatric Updates Symposium" src="/demo/doc/mobile-banner.jpg"></div>
 
             </div><!-- .row END -->
         </div><!-- .container END -->

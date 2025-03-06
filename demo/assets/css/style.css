@@ -4732,3 +4732,18 @@ h4 {
 ul.list-disc li {
   list-style: disc;
 }
+
+.hidden-block{
+  display: block;
+}
+.block-hidden{
+  display: none;
+}
+@media (max-width: 768px) {
+  .hidden-block{
+    display: none;
+  }
+  .block-hidden{
+    display: block;
+  }
+}

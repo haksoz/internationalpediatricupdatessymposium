@@ -64,7 +64,7 @@
                     </div>
                     <div class="row justify-content-center">
                         <div class="col-lg-6 mt-50">
-                            <img src="doc/exe-budapest-center-hotel.jpg" alt="Exe Budapest Center Hotel" title="Exe Budapest Center Hotel" class="mb-10">
+                            <img src="/demo/doc/exe-budapest-center-hotel.jpg" alt="Exe Budapest Center Hotel" title="Exe Budapest Center Hotel" class="mb-10">
                             <p>Address: Budapest, Kossuth Lajos u. 7-9, 1053 Macaristan</p>
                             <p>Telephone: <a href="tel:+3614454800">+36 1 445 4800</p>
                         </div>

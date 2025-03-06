@@ -3,13 +3,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 xs-logo-wraper">
-                    <a class="nav-brand" href="index.php"><img src="doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma"></a>
+                    <a class="nav-brand" href="/demo/index.php"><img src="/demo/doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma"></a>
                 </div><!-- .xs-logo-wraper END -->
                 <div class="col-md-4 xs-logo-wraper" style="text-align: center; ">
                     <h3 class="">3<sup>rd</sup> International Pediatric<br> Updates Symposium</h3>
                 </div>
                 <div class="col-md-4 xs-logo-wraper" style="text-align: end;">
-                    <a class="nav-brand" href="index.php"><img style="max-height: 100px;" src="doc/magyar.png" alt="Magyar Gyermekorvosok Társasága" title="Magyar Gyermekorvosok Társasága"></a>
+                    <a class="nav-brand" href="/demo/index.php"><img style="max-height: 100px;" src="/demo/doc/magyar.png" alt="Magyar Gyermekorvosok Társasága" title="Magyar Gyermekorvosok Társasága"></a>
                 </div>
                 <!--
                 <div class="col-md-1">
@@ -26,31 +26,31 @@
             <nav class="xs-menus">
                 <div class="nav-header">
                     <div class="nav-toggle"></div><a class="nav-logo" href="index.php">
-                        <img src="doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma">
-                        <img src="doc/magyar.png" alt="Magyar Gyermekorvosok Társasága" title="Magyar Gyermekorvosok Társasága"></a>
+                        <img src="/demo/doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma">
+                        <img src="/demo/doc/magyar.png" alt="Magyar Gyermekorvosok Társasága" title="Magyar Gyermekorvosok Társasága"></a>
                 </div><!-- .nav-header END -->
                 <div class="nav-menus-wrapper">
                     <ul class="nav-menu">
                         <li>
-                            <a href="index.php">Home Page</a>
+                            <a href="/demo/index.php">Home Page</a>
                         </li>
                         <li>
-                            <a href="invitation.php">Invitation</a>
+                            <a href="/demo/invitation.php">Invitation</a>
                         </li>
                         <li>
-                            <a href="information.php">Information</a>
+                            <a href="/demo/information.php">Information</a>
                         </li>
                         <li>
-                            <a href="committees.php">Committees</a>
+                            <a href="/demo/committees.php">Committees</a>
                         </li>
                         <li>
-                            <a href="registration.php">Registration</a>
+                            <a href="/demo/registration.php">Registration</a>
                         </li>
                         <li>
-                            <a href="scientific-program.php">Scientific Program</a>
+                            <a href="/demo/scientific-program.php">Scientific Program</a>
                         </li>
                         <li>
-                            <a href="contact.php">Contact</a>
+                            <a href="/demo/contact.php">Contact</a>
                         </li>
                     </ul><!-- .nav-menu END -->
                 </div><!-- .nav-menus-wrapper .row END -->

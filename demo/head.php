@@ -11,14 +11,14 @@
 
 <link href="doc/favicon.png" rel="icon" sizes="20x20" type="image/gif">
 <link href="apple-touch-icon.png" rel="apple-touch-icon">
-<link href="assets/css/font-awesome.min.css" rel="stylesheet">
-<link href="assets/css/bootstrap.min.css" rel="stylesheet">
-<link href="assets/css/iconfont.css" rel="stylesheet">
-<link href="assets/css/isotope.css" rel="stylesheet">
-<link href="assets/css/magnific-popup.css" rel="stylesheet">
-<link href="assets/css/owl.carousel.min.css" rel="stylesheet">
-<link href="assets/css/owl.theme.default.min.css" rel="stylesheet">
-<link href="assets/css/animate.css" rel="stylesheet"><!--For Plugins external css-->
-<link href="assets/css/plugins.css" rel="stylesheet"><!--Theme custom css -->
-<link href="assets/css/style.css" rel="stylesheet"><!--Theme Responsive css-->
-<link href="assets/css/responsive.css" rel="stylesheet">
+<link href="/demo/assets/css/font-awesome.min.css" rel="stylesheet">
+<link href="/demo/assets/css/bootstrap.min.css" rel="stylesheet">
+<link href="/demo/assets/css/iconfont.css" rel="stylesheet">
+<link href="/demo/assets/css/isotope.css" rel="stylesheet">
+<link href="/demo/assets/css/magnific-popup.css" rel="stylesheet">
+<link href="/demo/assets/css/owl.carousel.min.css" rel="stylesheet">
+<link href="/demo/assets/css/owl.theme.default.min.css" rel="stylesheet">
+<link href="/demo/assets/css/animate.css" rel="stylesheet"><!--For Plugins external css-->
+<link href="/demo/assets/css/plugins.css" rel="stylesheet"><!--Theme custom css -->
+<link href="/demo/assets/css/style.css" rel="stylesheet"><!--Theme Responsive css-->
+<link href="/demo/assets/css/responsive.css" rel="stylesheet">
