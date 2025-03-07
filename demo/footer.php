@@ -8,7 +8,6 @@
                     </a>
                     <h3 class="widget-title">The Society of Pediatric Allergy Immunology and Asthma</h3>
                     <li>Address: Şehremini Mah. Millet Cad. No:133/4 - Fatih / İstanbul</li>
-                    <!-- <li>E-Mail: <a href="mailto:cocukalerjiastim@gmail.com" style="color: #fff;">cocukalerjiastim@gmail.com</a></li> -->
                     <li>Tel: <a href="tel:+902125340452" style="color: #fff;">+90 212 534 04 52</a></li>
                     <li>Tel: <a href="tel:+905372688548" style="color: #fff;">+90 537 268 85 48</a></li>
                     <li>Website: <a href="https://caiad.org.tr/" target="_blank" style="color: #fff;">caiad.org.tr</a></li>
@@ -30,7 +29,7 @@
                     </a>
                     <h3 class="widget-title">Organization Secretariat</h3>
                     <li>Address: Yazarlar Sok. No:16 Esentepe Mah. Şişli, 34394, İstanbul</li>
-                    <li>E-Mail: <a href="mailto:info@soloevent.net" style="color: #fff;">info@soloevent.net</a></li>
+                    <li>E-Mail: info@soloevent.net</li>
                     <li>Tel: <a href="tel:+902122790020" style="color: #fff;">(0212) 279 00 20</a></li>
                     <li>Faks: (0212) 279 00 35</li>
                 </div><!-- .footer-widget END -->

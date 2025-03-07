@@ -56,7 +56,7 @@
                                         </a>
                                         <h3 class="widget-title">Organization Secretariat</h3>
                                         <li>Address: Yazarlar Sok. No:16 Esentepe Mah. Şişli, 34394, İstanbul</li>
-                                        <li>E-Mail: <a href="mailto:info@soloevent.net" style="color: #243262;">info@soloevent.net</a></li>
+                                        <li>E-Mail: info@soloevent.net</li>
                                         <li>Tel: <a href="tel:+902122790020" style="color: #243262;">(0212) 279 00 20</a></li>
                                         <li>Faks: (0212) 279 00 35</li>
                                     </div>
