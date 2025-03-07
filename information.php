@@ -1,9 +1,8 @@
-<!-- get_header('Page Name','Title')-->
 <!doctype html>
 <html class="no-js" lang="en">
 
 <head>
-    <title>General Information - International Pediatric Updates Symposium</title>
+    <title>General Information - 3rd International Pediatric Updates Symposium</title>
     <?php include('head.php') ?>
 </head>
 
@@ -29,15 +28,15 @@
                                 <tbody>
                                     <tr>
                                         <td><b>Date</b></td>
-                                        <td>12-13 June 2024</td>
+                                        <td>30-31 May 2025</td>
                                     </tr>
                                     <tr>
                                         <td><b>Place</b></td>
-                                        <td>Dubrovnik, CROATIA</td>
+                                        <td>Budapest, Hungary</td>
                                     </tr>
                                     <tr>
                                         <td><b>Symposium Presidents</b></td>
-                                        <td>Prof. Dr. Koray Harmancı, Prof. Aspazija Sofijanova</td>
+                                        <td>Prof. Dr. Koray Harmancı, Prof.Dr. Lajos Réthy</td>
                                     </tr>
                                     <tr>
                                         <td><b>Symposium Web Site</b></td>
@@ -45,7 +44,7 @@
                                     </tr>
                                     <tr>
                                         <td><b>Attendees</b></td>
-                                        <td>180</td>
+                                        <td>150</td>
                                     </tr>
                                     <tr>
                                         <td><b>Organization</b></td>
@@ -53,11 +52,11 @@
                                     </tr>
                                     <tr>
                                         <td><b>Project Manager</b></td>
-                                        <td>Hüseyin Altıncı</td>
+                                        <td>Deniz Demirkan</td>
                                     </tr>
                                     <tr>
                                         <td><b>Hotel</b></td>
-                                        <td>Rixos Premium Hotel</td>
+                                        <td>Exe Budapest Center Hotel 4*</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -65,9 +64,9 @@
                     </div>
                     <div class="row justify-content-center">
                         <div class="col-lg-6 mt-50">
-                            <img src="doc/info-hotel.png" alt="Rixos Premium Hotel" title="Rixos Premium Hotel" class="mb-10">
-                            <p>Address: Liechtensteinov put 3, 20000, Dubrovnik, Hırvatistan</p>
-                            <p>Telephone: <a href="tel:38520200000">+385 20 200 000</p>
+                            <img src="/doc/exe-budapest-center-hotel.jpg" alt="Exe Budapest Center Hotel" title="Exe Budapest Center Hotel" class="mb-10">
+                            <p>Address: Budapest, Kossuth Lajos u. 7-9, 1053 Macaristan</p>
+                            <p>Telephone: <a href="tel:+3614454800">+36 1 445 4800</p>
                         </div>
                     </div>
                 </div><!-- .container END -->

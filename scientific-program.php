@@ -1,9 +1,8 @@
-<!-- get_header('Page Name','Title')-->
 <!doctype html>
 <html class="no-js" lang="en">
 
 <head>
-    <title>Scientific Program - International Pediatric Updates Symposium</title>
+    <title>Scientific Program - 3rd International Pediatric Updates Symposium</title>
     <?php include('head.php') ?>
 </head>
 
@@ -25,17 +24,18 @@
                     </div><!-- .row END -->
                     <div class="row">
                         <div class="col-md-12 program-button">
-                        <a class="btn btn-success" href="doc/pediatriakademi-eng-programme.pdf" title="eng scientific program" target="_blank">ENG | Download the Program</a>
+                        <a class="btn btn-success" href="/doc/scientific-program-en.pdf" title="eng scientific program" target="_blank">ENG | Download the Program</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12 program-button mb-20">
-                            <a class="btn btn-success" href="doc/pediatriakademi2programtr.pdf?v=004" title="tr scientific program" target="_blank">TR | Programı İndirin</a>
+                            <a class="btn btn-success" href="/doc/scientific-program-tr.pdf" title="tr scientific program" target="_blank">TR | Programı İndirin</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="xs-heading col-lg-12">
-                            <img style="max-width: 80%;" src="doc/pediatriakademi-eng-programme.jpg" alt="Scientific Program" title="Scientific Program">
+                            <img style="max-width: 80%;" src="/doc/scientific-program-en-2.png" alt="Scientific Program" title="Scientific Program">
+                            <img style="max-width: 80%; margin-top: 20px;" src="/doc/scientific-program-en-3.png" alt="Scientific Program" title="Scientific Program">
                         </div>
                     </div><!-- .row END -->
                 </div><!-- .container END -->
