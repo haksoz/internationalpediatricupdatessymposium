@@ -24,8 +24,8 @@
                     </div><!-- .row END -->
                     <div class="xs-featureDetails-content col-md-12 text-center">
                         <h4>Presidents of Meeting</h4>
-                        <p>Prof. Dr. Prof. Dr. Koray Harmancı</p>
-                        <p>Prof.Dr. Lajos Réthy</p>
+                        <p>Prof. Dr. Koray Harmancı</p>
+                        <p>Prof. Dr. Lajos Réthy</p>
 
                         <h4>Organizing Committee</h4>
                         <p>Mustafa Arga</p>
