@@ -24,18 +24,18 @@
                     </div><!-- .row END -->
                     <div class="row">
                         <div class="col-md-12 program-button">
-                        <a class="btn btn-success" href="/doc/scientific-program-en.pdf?v=12321" title="eng scientific program" target="_blank">ENG | Download the Program</a>
+                        <a class="btn btn-success" href="/doc/Budapeste_Program_EN.pdf?v=1" title="eng scientific program" target="_blank">ENG | Download the Program</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12 program-button mb-20">
-                            <a class="btn btn-success" href="/doc/scientific-program-tr.pdf?v=12321" title="tr scientific program" target="_blank">TR | Programı İndirin</a>
+                            <a class="btn btn-success" href="/doc/Budapeste_Program_TR.pdf?v=1" title="tr scientific program" target="_blank">TR | Programı İndirin</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="xs-heading col-lg-12">
-                            <img style="max-width: 80%;" src="/doc/scientific-program-en-2.png?v=123452" alt="Scientific Program" title="Scientific Program">
-                            <img style="max-width: 80%; margin-top: 20px;" src="/doc/scientific-program-en-3.png?v=123452" alt="Scientific Program" title="Scientific Program">
+                            <img style="max-width: 80%;" src="/doc/Budapeste_Program_EN-2.jpg?v=1" alt="Scientific Program" title="Scientific Program">
+                            <img style="max-width: 80%; margin-top: 20px;" src="/doc/Budapeste_Program_EN-2.jpg?v=1" alt="Scientific Program" title="Scientific Program">
                         </div>
                     </div><!-- .row END -->
                 </div><!-- .container END -->
