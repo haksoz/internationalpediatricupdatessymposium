@@ -42,7 +42,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright © <a href="https://ko.com.tr/" target="_blank">Kapital Online</a> - 2025</p>
+                    <p>Copyright © <a href="https://ko.com.tr/" target="_blank">Kapital Online</a></p>
                 </div>
                 <div class="xs-back-to-top-wraper">
                     <a href="#" class="xs-back-to-top">
