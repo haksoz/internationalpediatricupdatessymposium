@@ -4,46 +4,58 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
-  <loc>https://www.internationalpediatricupdatessymposium.org/</loc>
-  <lastmod>2024-03-20T11:20:21+00:00</lastmod>
+  <loc>https://internationalpediatricupdatessymposium.org/</loc>
+  <lastmod>2026-01-19T19:43:01+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.internationalpediatricupdatessymposium.org/index.php</loc>
-  <lastmod>2024-03-20T11:20:21+00:00</lastmod>
+  <loc>https://internationalpediatricupdatessymposium.org/index.php</loc>
+  <lastmod>2026-01-19T19:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.internationalpediatricupdatessymposium.org/invitation.php</loc>
-  <lastmod>2024-03-20T11:20:21+00:00</lastmod>
+  <loc>https://internationalpediatricupdatessymposium.org/invitation.php</loc>
+  <lastmod>2026-01-19T19:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.internationalpediatricupdatessymposium.org/information.php</loc>
-  <lastmod>2024-03-20T11:20:21+00:00</lastmod>
+  <loc>https://internationalpediatricupdatessymposium.org/information.php</loc>
+  <lastmod>2026-01-19T19:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.internationalpediatricupdatessymposium.org/committees.php</loc>
-  <lastmod>2024-03-20T11:20:21+00:00</lastmod>
+  <loc>https://internationalpediatricupdatessymposium.org/committees.php</loc>
+  <lastmod>2026-01-19T19:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.internationalpediatricupdatessymposium.org/registration.php</loc>
-  <lastmod>2024-03-20T11:20:21+00:00</lastmod>
+  <loc>https://internationalpediatricupdatessymposium.org/registration.php</loc>
+  <lastmod>2026-01-19T19:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.internationalpediatricupdatessymposium.org/scientific-program.php</loc>
-  <lastmod>2024-03-20T11:20:21+00:00</lastmod>
+  <loc>https://internationalpediatricupdatessymposium.org/scientific-program.php</loc>
+  <lastmod>2026-01-19T19:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.internationalpediatricupdatessymposium.org/contact.php</loc>
-  <lastmod>2024-03-20T11:20:21+00:00</lastmod>
+  <loc>https://internationalpediatricupdatessymposium.org/contact.php</loc>
+  <lastmod>2026-01-19T19:43:01+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://internationalpediatricupdatessymposium.org/doc/Budapeste_Program_EN.pdf?v=2</loc>
+  <lastmod>2026-01-19T19:15:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://internationalpediatricupdatessymposium.org/doc/Budapeste_Program_TR.pdf?v=2</loc>
+  <lastmod>2026-01-19T19:15:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
