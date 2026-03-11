@@ -28,15 +28,15 @@
                                 <tbody>
                                     <tr>
                                         <td><b>Date</b></td>
-                                        <td>30-31 May 2025</td>
+                                        <td>12-13 May 2026</td>
                                     </tr>
                                     <tr>
                                         <td><b>Place</b></td>
-                                        <td>Budapest, Hungary</td>
+                                        <td>Florence, ITALY</td>
                                     </tr>
                                     <tr>
                                         <td><b>Symposium Presidents</b></td>
-                                        <td>Prof. Dr. Koray Harmancı, Prof.Dr. Lajos Réthy</td>
+                                        <td>Prof. Dr. Koray Harmancı Prof.Dr. Aspazija Sofijanova</td>
                                     </tr>
                                     <tr>
                                         <td><b>Symposium Web Site</b></td>
@@ -44,7 +44,7 @@
                                     </tr>
                                     <tr>
                                         <td><b>Attendees</b></td>
-                                        <td>150</td>
+                                        <td>120</td>
                                     </tr>
                                     <tr>
                                         <td><b>Organization</b></td>
@@ -52,21 +52,21 @@
                                     </tr>
                                     <tr>
                                         <td><b>Project Manager</b></td>
-                                        <td>Deniz Demirkan</td>
+                                        <td>Hüseyin Altıncı</td>
                                     </tr>
                                     <tr>
                                         <td><b>Hotel</b></td>
-                                        <td>Exe Budapest Center Hotel 4*</td>
+                                        <td>FH55 Grand Hotel Mediterraneo 4*</td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-lg-6 mt-50">
-                            <img src="/doc/exe-budapest-center-hotel.jpg" alt="Exe Budapest Center Hotel" title="Exe Budapest Center Hotel" class="mb-10">
-                            <p>Address: Budapest, Kossuth Lajos u. 7-9, 1053 Macaristan</p>
-                            <p>Telephone: <a href="tel:+3614454800">+36 1 445 4800</p>
+                        <div class="col-lg-8 mt-50">
+                            <img src="/doc/fh55-hotel.png" alt="Exe Budapest Center Hotel" title="Exe Budapest Center Hotel" class="mb-10">
+                            <p>Address: Lungarno del Tempio, 44, 50121 Firenze FI, İtalya</p>
+                            <p>Telephone: <a href="tel:+39055660241">+39 055 660241</p>
                         </div>
                     </div>
                 </div><!-- .container END -->
