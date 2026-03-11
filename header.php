@@ -9,7 +9,7 @@
                     <h3 class="">4<sup>th</sup> International Pediatric<br> Updates Symposium</h3>
                 </div>
                 <div class="col-md-4 xs-logo-wraper" style="text-align: end;">
-                    <a class="nav-brand" href="/index.php"><img style="max-height: 100px;" src="/doc/magyar.png" alt="Magyar Gyermekorvosok Társasága" title="Magyar Gyermekorvosok Társasága"></a>
+                    <a class="nav-brand" href="/index.php"><img style="max-height: 100px;" src="/doc/macedonia-logo.png" alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association logo"></a>
                 </div>
                 <!--
                 <div class="col-md-1">
