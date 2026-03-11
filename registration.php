@@ -43,22 +43,22 @@
                                     </tr>
                                     <tr>
                                         <td><b>Assistant</b></td>
-                                        <td>200 €</td>
+                                        <td>250 €</td>
                                     </tr>
                                     <tr>
                                         <td><b>Company Representative</b></td>
-                                        <td>250 €</td>
+                                        <td>200 €</td>
                                     </tr>
                                 </tbody>
                             </table>
                             <ul class="">
                                 <br>
                                 <li>
-                                    It will be finalized after the fees for registration, accommodation and
-                                    course requests are deposited to the relevant accounts and the receipts and
-                                    registration-accommodation request are sent via e-mail to <a href="mailto:info@soloevent.net">info@soloevent.net</a>
-                                    If you request payment by credit card, the mail order form will be sent to
-                                    you by e-mail by the meeting secretariat.
+                                    It will be finalized after the fees for registration, accommodation and course requests are deposited to
+                                    the relevant accounts and the receipts and registration-accommodation request are sent via e-mail to <a href="mailto:info@soloevent.net">info@soloevent.net</a>
+                                    <br>
+                                    If you request payment by credit card, the mail order form will be sent to you by e-mail by the meeting
+                                    secretariat.
                                 </li> <br>
                             </ul>
                             <br><br>
@@ -88,15 +88,15 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td><b>EXE Budapest Center Hotel</b></td>
-                                        <td>800 €</td>
+                                        <td><b>FH55 Grand Hotel Mediterraneo</b></td>
+                                        <td>850 €</td>
                                         <td>200 €</td>
                                     </tr>
                                 </tbody>
                             </table>
                             <ul class="list-disc">
                                 <li>3 nights ,bad & breakfast accomodation</li>
-                                <li>Lunch and coffee breaks to be taken between 30-31 May are included in the accommodation fee.</li>
+                                <li>Lunch and coffee breaks to be taken between 29 May - 01 June are included in the accommodation fee.</li>
                                 <li>VAT will be added the prices</li>
                             </ul>
                         </div>
@@ -110,9 +110,10 @@
                         </div>
                         <div class="col-lg-12">
                             <ul class="list-disc">
-                                <li><b>Airport Transfer Fee: 220 €</b></li>
-                                <li>This transfer fee will be made collectively as arrival May 30, 2025 and return on May 31, 2025 Valid for airport - hotel - Airport transfers.</li>
-                                <li>If you have a private transfer or transfer request outside of these dates, you should contact SOLO EVENT.</li>
+                                <li><b>Airport Transfer Fee: 200 €</b></li>
+                                <li>This transfer fee will be made collectively as arrival May 29, 2025 and return on June 01, 2025.</li>
+                                <li>Valid for airport - hotel - Airport transfers.</li>
+                                <li>If you have a private transfer or transfer request outside of these dates, you should contact <b>SOLO EVENT</b>.</li>
                             </ul>
                         </div>
                     </div>
@@ -125,13 +126,13 @@
                         </div>
                         <div class="col-lg-12">
                             <ul class="list-disc">
-                                <li><b> Cancellation from contract signature to 90 days before the first day of the event:</b> There will be a penalty of 30% (same as deposit paid)</li>
-                                <li><b>Cancellation from 89 days and 30 days before the first day of the event:</b> There will be a penalty of 60% (same as deposit paid)</li>
-                                <li><b>Cancellation from 29 days and 8 days before the first day of the event:</b> There will be a penalty of 80% (same as deposit paid)</li>
-                                <li><b>Cancellation from 7 days and the first day of the event:</b> There will be a penalty of 100% (same as total prepayment)</li>
-                                <li>All requests must be submitted to the organization firm in writing.</li>
-                                <li>All refunds will be made after the meeting.</li>
-                                <li>In case our meeting is postponed to 2025 or another year due to Covid-19 or another global pandemic, or is held virtually, the total amount paid by the company will be deducted from the total amount of sponsorship to be made over the current prices determined for the meeting to be held. In case the company cancels its participation, the cancellation conditions of that day will be applied.</li>
+                                <li>Cancellation from contract signature to 90 days before the first day of the event: there will be a penalty of 30% (same as deposit paid)	</li>
+                                <li>Cancellation from 89 days and 30 days before the first day of the event: there will be a penalty of 60% (same as deposit paid)	</li>
+                                <li>Cancellation from 29 days and 8 days before the first day of the event: there will be a penalty of 80% (same as deposit paid)	</li>
+                                <li>Cancellation from 7 days and the first day of the event: there will be a penalty of 100% (same as total prepayment)	</li>
+                                <li>All requests must be submitted to the organization firm in writing.	</li>
+                                <li>All refunds will be made after the meeting.	</li>
+                                <li>In case our meeting is postponed to 2025 or another year due to Covid-19 or another global pandemic, or is held virtually, the total amount paid by the company will be deducted from the total amount of sponsorship to be made over the current prices determined for the meeting to be held. In case the company cancels its participation, the cancellation conditions of that day will be applied.	</li>
                             </ul>
                         </div>
                     </div><!-- .row END -->
