@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Scientific Program - 3rd International Pediatric Updates Symposium</title>
+    <title>Scientific Program - 4th International Pediatric Updates Symposium</title>
     <?php include('head.php') ?>
 </head>
 

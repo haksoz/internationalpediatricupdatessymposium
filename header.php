@@ -6,7 +6,7 @@
                     <a class="nav-brand" href="/index.php"><img src="/doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma"></a>
                 </div><!-- .xs-logo-wraper END -->
                 <div class="col-md-4 xs-logo-wraper" style="text-align: center; ">
-                    <h3 class="">3<sup>rd</sup> International Pediatric<br> Updates Symposium</h3>
+                    <h3 class="">4<sup>th</sup> International Pediatric<br> Updates Symposium</h3>
                 </div>
                 <div class="col-md-4 xs-logo-wraper" style="text-align: end;">
                     <a class="nav-brand" href="/index.php"><img style="max-height: 100px;" src="/doc/magyar.png" alt="Magyar Gyermekorvosok Társasága" title="Magyar Gyermekorvosok Társasága"></a>
