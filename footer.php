@@ -14,12 +14,14 @@
 
                 </div><!-- .footer-widget END -->
                 <div class="col-lg-6 col-md-6 footer-widget footer-description">
-                    <a href="#" class="xs-footer-logo">
-                        <img src="/doc/magyar.png" alt="Magyar Gyermekorvosok Társasága" title="Magyar Gyermekorvosok Társasága" style="max-height: 100px;">
+                    <a href="#" class="xs-footer-logo" style="padding: 3px 3px 0px 3px; background: #ffffff;">
+                        <img style="max-height: 100px;" src="/doc/macedonia-logo.png" alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association logo">
                     </a>
-                    <h3 class="widget-title">Magyar Gyermekorvosok Társasága</h3>
-                    <li>Heim Pál Országos Gyermekgyógyászati Intézet 1089 Budapest, Üllői út 86</li>
-                    <li>Levelezési cím: MGYT Titkárság</li>
+                    <h3 class="widget-title">Macedonia Pediatric Association</h3>
+                    <ul>
+                    <li>Address: Dame Gruev 3 1000 Skopje, North Macedonia</li>
+                    <li>Email: <a style="color: #ffffff;" href="mailto:info@mld.mk">info@mld.mk</a> - <a style="color: #ffffff;" href="pzm@mld.org.mk">pzm@mld.org.mk</a></li>
+                    </ul>
                 </div><!-- .footer-widget END -->
             </div><!-- .row END -->
             <div class="row justify-content-center">
