@@ -25,17 +25,16 @@
                     <div class="xs-featureDetails-content col-md-12 text-center">
                         <h4>Presidents of Meeting</h4>
                         <p>Prof. Dr. Koray Harmancı</p>
-                        <p>Prof. Dr. Lajos Réthy</p>
+                        <p>Prof. Dr. Aspazija Sofijanova</p>
 
                         <h4>Organizing Committee</h4>
-                        <p>Mustafa Arga</p>
-                        <p>Adam Balogh</p>
-                        <p>Deniz Özçeker</p>
-                        <p>Csilla Csaki</p>
+                        <p>Zeynep Ülker Altınel</p>
+                        <p>Tatjana Baevska Vuchkovikj</p>
+                        <p>Metin Aydoğan</p>
                         <p>Ates Kara</p>
                         <p>Hasan Tezer</p>
-                        <p>Lajos Réthy</p>
-                        <p>Metin Aydoğan</p>
+                        <p>Nikolina Zdraveska</p>
+
                     </div>
                 </div><!-- .container END -->
             </div><!-- End banner section -->
