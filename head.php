@@ -3,8 +3,8 @@
 <meta name="robots" content="index,follow">
 <meta name="author" content="Kapital Online">
 <meta name="publisher" content="Kapital Online">
-<meta name="description" content="The 3rd International Pediatric Updates Symposium, jointly organized by The Society of Pediatric Allergy Immunology And Asthma and the Hungary Pediatric Association, will take place 30 - 31 May 2025, at Exe Budapest Center Hotel in Budapest, Hungary. Our congress, where all pediatric specialists from Türkiye and Hungary will convene, will serve as a significant platform for all our colleagues to discuss the latest professional and scientific advancements.">
-<meta name="keywords" content="International Pediatric Updates Symposium, caaad, Macaristan Pediatri Derneği, Uluslararası Pediatrik Güncellemeler Sempozyumu, Hungary, The Society of Pediatric Allergy Immunology and Asthma, Magyar Gyermekorvosok Társasága, Exe Budapest Center Hotel , Budapest">
+<meta name="description" content="4th International Pediatric Updates Symposium jointly organized by The Society of Pediatric Allergy Immunology and Asthma and the Macedonia Pediatric Association, will take place from May 12 to 15, 2026 at FH55 Grand Hotel Mediterraneo in Florence, ıtaly.">
+<meta name="keywords" content="International Pediatric Updates Symposium, caaad, Macaristan Pediatri Derneği, Uluslararası Pediatrik Güncellemeler Sempozyumu, Hungary, The Society of Pediatric Allergy Immunology and Asthma, Magyar Gyermekorvosok Társasága, FH55 Grand Hotel Mediterraneo , Italy">
 
 <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
 <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700%7CQuicksand:300,400,500,700" rel="stylesheet">
