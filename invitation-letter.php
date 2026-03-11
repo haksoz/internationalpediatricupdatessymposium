@@ -2,26 +2,28 @@
     <div class="xs-service-content">
         <p>Dear Colleagues,</p>
         <p>
-            The 3<sup>rd</sup> International Pediatric Updates Symposium, jointly organized by The Society of Pediatric
-            Allergy Immunology And Asthma and the Hungary Pediatric Association, will take place from
-            <b>May 30 to May 31 2025</b>, at <b>Exe Budapest Center Hotel in Budapest, Hungary</b>.
-            Our congress, where all pediatric specialists from Türkiye and Hungary will convene, will serve as a significant
-            platform for all our colleagues to discuss the latest professional and scientific advancements.
+            <b> 4<sup>th</sup> International Pediatric Updates Symposium</b>, jointly organized by <b>The Society of Pediatric
+            Allergy Immunology and Asthma and the Macedonia Pediatric Association</b>, will take place from
+            <b>May 12 to May 15, 2026</b> at <b>FH55 Grand Hotel Mediterraneo in Florence, ITALY</b>.
+        </p>
+        <p>
+            A total of 120 healthcare professionals, <b>120 healthcare professionals, 45 from Turkey, 30 from Macedonia,20 from
+            Hungary, 10 from Montenegro, 15 from Czech Republic are expected to attend our meeting.</b>
         </p>
         <p>
             We are planning to organize a productive conference that brings together colleagues from both
             countries for scientific exchange, sharing of professional experiences and transferring expertise
-            in the field of pediatric development and pediatric asthma and allergy in both countries.
+            in the field of pediatric development in both countries.
         </p>
         <p>Sincerely,</p>
         <div class="row">
             <div class="col-md-6 text-center">
-                <p><b>President of The Turkish Society of Pediatric Allergy Immunology and Asthma</b></p>
-                <p><b>Prof.Dr. Koray Harmancı</b></p>
+                <p><b>President of the Pediatric Allergy, Immunology and Asthma Association</b></p>
+                <p><b>Prof. Arzu Bakırtaş</b></p>
             </div>
             <div class="col-md-6 text-center">
-                <p><b>President of The Hungary Pediatric Association</b><br><br></p>
-                <p><b>Dr. Anikó Nagy</b></p>
+                <p><b>President of Macedonia Pediatric Association</b></p>
+                <p><b>Prof. Aspazija Sofijanova</b></p>
             </div>
         </div>
     </div><!-- .xs-service-content END -->
