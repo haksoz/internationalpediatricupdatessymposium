@@ -12,15 +12,8 @@
     <!-- End header section -->
 
     <!-- banner section -->
-    <section class="xs-banner xs-bg" style="background-color: #243263;">
-        <div class="container">
-            <div class="row xs-banner-wraper">
-                <div class="hidden-block"><img alt="International Pediatric Updates Symposium" title="International Pediatric Updates Symposium" src="/doc/desktop-banner-2026.jpg"></div>
-                <div class="block-hidden"><img alt="International Pediatric Updates Symposium" title="International Pediatric Updates Symposium" src="/doc/mobile-banner-2026.png"></div>
+    <?php include ('banner.php') ?>
 
-            </div><!-- .row END -->
-        </div><!-- .container END -->
-    </section><!-- End banner section -->
     <!-- feautre section -->
     <main class="xs-main">
         <div class="xs-feautre">
