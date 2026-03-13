@@ -46,7 +46,7 @@
                                         </a>
                                         <h3 class="widget-title">Macedonia Pediatric Association</h3>
                                         <li><b>Address: </b> Dame Gruev 3 1000 Skopje, North Macedonia</li>
-                                        <li><b>E-Mail: </b> <a href="mailto:info@mld.mk" style="color: #243262;">info@mld.mk</a> - <a href="pzm@mld.org.mk" style="color: #243262;">pzm@mld.org.mk</a></li>
+<!--                                        <li><b>E-Mail: </b> <a href="mailto:info@mld.mk" style="color: #243262;">info@mld.mk</a> - <a href="pzm@mld.org.mk" style="color: #243262;">pzm@mld.org.mk</a></li>-->
                                     </div>
                                 </div>
                                 <div class="row justify-content-center">
