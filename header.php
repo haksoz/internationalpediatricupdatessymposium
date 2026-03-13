@@ -22,12 +22,14 @@
         </div>
     </div>
     <div class="xs-nav-down">
-        <div class="container">
+        <div class="header-container">
             <nav class="xs-menus">
                 <div class="nav-header">
-                    <div class="nav-toggle"></div><a class="nav-logo" href="index.php">
+                    <div class="nav-toggle"></div>
+                    <a class="nav-logo" href="index.php">
                         <img src="/doc/logo-caaad.png" alt="The Society of Pediatric Allergy Immunology and Asthma logo" title="The Society of Pediatric Allergy Immunology and Asthma">
-                        <img src="/doc/magyar.png" alt="Magyar Gyermekorvosok Társasága" title="Magyar Gyermekorvosok Társasága"></a>
+                        <img style="max-height: 100px;" src="/doc/macedonia-logo.png" alt="Macedonia Pediatrics Association logo" title="Macedonia Pediatrics Association logo">
+                    </a>
                 </div><!-- .nav-header END -->
                 <div class="nav-menus-wrapper">
                     <ul class="nav-menu">
