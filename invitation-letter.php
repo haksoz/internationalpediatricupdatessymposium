@@ -18,11 +18,11 @@
         <p>Sincerely,</p>
         <div class="row">
             <div class="col-md-6 text-center">
-                <p><b>President of the Pediatric Allergy, Immunology and Asthma Association</b></p>
-                <p><b>Prof. Arzu Bakırtaş</b></p>
+                <p><b>On Be Half Of The Pediatric Allergy, Immunology and Asthma Association</b></p>
+                <p><b>Prof. Dr. Koray Harmancı</b></p>
             </div>
             <div class="col-md-6 text-center">
-                <p><b>President of Macedonia Pediatric Association</b></p>
+                <p><b>On Be Half Of The Macedonia Pediatric Association</b></p>
                 <p><b>Prof. Aspazija Sofijanova</b></p>
             </div>
         </div>
