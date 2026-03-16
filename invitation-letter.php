@@ -23,7 +23,7 @@
             </div>
             <div class="col-md-6 text-center">
                 <p><b>On Behalf Of The Macedonia Pediatric Association</b></p>
-                <p><b>Prof. Aspazija Sofijanova</b></p>
+                <p><b>Aspazija Sofijanova</b></p>
             </div>
         </div>
     </div><!-- .xs-service-content END -->
