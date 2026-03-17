@@ -7,7 +7,7 @@
             <b>May 12 to May 15, 2026</b> at <b>FH55 Grand Hotel Mediterraneo in Florence, ITALY</b>.
         </p>
         <p>
-            A total of 120 healthcare professionals, <b>120 healthcare professionals, 45 from Turkey, 30 from Macedonia,20 from
+            A total of <b>120 healthcare professionals, 45 from Turkey, 30 from Macedonia,20 from
             Hungary, 10 from Montenegro, 15 from Czech Republic are expected to attend our meeting.</b>
         </p>
         <p>
